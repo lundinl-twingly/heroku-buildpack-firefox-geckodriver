@@ -47,3 +47,5 @@ The `/bin/compile` will always have the last time it was checked for a version, 
 ## Im having trouble running this buildpack. What should I do?
 
 Do not hesitate to open an issue on this repository.
+
+.
